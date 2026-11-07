@@ -6,7 +6,7 @@ Haechy puts the apps your AI assistant builds online for your team. Connect the 
 
 Outside services reach an app only after you approve them in the Haechy console. Your assistant can ask for access and cannot approve it.
 
-Server URL: `https://mcp.haechy.com/mcp` (OAuth 2.1 with PKCE, dynamic client registration). 29 tools; every tool has a title and read-only, destructive and open-world hints.
+Server URL: `https://mcp.haechy.com/mcp/i/cursor` (OAuth 2.1 with PKCE, dynamic client registration). 29 tools; every tool has a title and read-only, destructive and open-world hints.
 
 ## What this plugin contains
 
@@ -21,7 +21,7 @@ Install the plugin, or add the server yourself under `mcpServers` in `~/.cursor/
 ```json
 {
   "mcpServers": {
-    "haechy": { "url": "https://mcp.haechy.com/mcp" }
+    "haechy": { "url": "https://mcp.haechy.com/mcp/i/cursor" }
   }
 }
 ```

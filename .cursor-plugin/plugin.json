@@ -1,7 +1,7 @@
 {
   "name": "haechy",
   "description": "Ask your AI to put the app you built online. Colleagues get a web address and their own sign-in, and everything they enter is saved and backed up every night.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": { "name": "DT Global Ventures Ltd", "email": "support@haechy.com" },
   "homepage": "https://haechy.com",
   "repository": "https://github.com/dantarakan/haechy-cursor-plugin",
